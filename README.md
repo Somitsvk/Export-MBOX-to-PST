@@ -1,2 +1,4 @@
 # Export-MBOX-to-PST
-Migrate MBOX to PST format and open MBOX message in Outlook interface. This is a direct solution of all MBOX related email client to convert MBOX to PST format.
+MailsDaddy MBOX to PST Converter is a simple GUI based application that allows user to export MBOX data to Outlook PST format. It supports more than 25 email clients mailbox such as Apple Mail, Thunderbird, Netscape, Entourage, SeaMonkey, Gmail, WebMail & others. You can download the software from official site and <a href="https://www.mailsdaddy.com/mbox-to-pst-converter/">convert MBOX to PST</a> format in few simple clicks. The user does not need to require any technical skill and program to run and operate the solution. User can migrate MBOX to Outlook without any alteration and modification. With the help of tool, user can import MBOX to PST, Office 365, Live Exchange, EML, MSG and many other given formats.
+
+<b>For more detail visit</b>: https://www.mailsdaddy.com/mbox-to-pst-converter/
